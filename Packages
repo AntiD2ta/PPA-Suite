@@ -1,0 +1,16 @@
+Package: simple
+Version: 1.0
+Architecture: amd64
+Maintainer: Miguel Tenorio Potrony <mtpotro41@gmail.com>
+Installed-Size: 10
+Filename: ./simple_1.0_amd64.deb
+Size: 3688
+MD5sum: 7d77e91f04beae168f9eaa360d57c46d
+SHA1: 8d4cb6cd8ba56f6704b85bce1d9e8516606bac5f
+SHA256: ce6c407c8d6ef2c0ec0e73b9a197294ae60dc9e2e0bef23ef2a3fb12caad138e
+Section: unknown
+Priority: optional
+Homepage: https://github.com/AntiD2ta/PPA-Suite
+Description: Print "Simple .deb package" on the screen
+ Simple c++ program that prints "Simple .deb package" on the screen
+
