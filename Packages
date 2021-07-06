@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: Miguel Tenorio Potrony <mtpotro41@gmail.com>
 Installed-Size: 10
 Filename: ./simple_1.0_amd64.deb
-Size: 3688
-MD5sum: 7d77e91f04beae168f9eaa360d57c46d
-SHA1: 8d4cb6cd8ba56f6704b85bce1d9e8516606bac5f
-SHA256: ce6c407c8d6ef2c0ec0e73b9a197294ae60dc9e2e0bef23ef2a3fb12caad138e
+Size: 5026
+MD5sum: 0ace2df52bee0fc6d33aff11c4ac6fa8
+SHA1: f053989ed5f99700a523667e070f970e5253ec1a
+SHA256: 65b6ff6e52fbfca8a184a83e348f88d218cf38acd2f62d99078c6ae0123007cf
 Section: unknown
 Priority: optional
 Homepage: https://github.com/AntiD2ta/PPA-Suite
