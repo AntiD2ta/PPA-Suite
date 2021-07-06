@@ -1,16 +1,17 @@
-Package: simple
-Version: 1.0
+Package: nethermind
+Version: 1.10.73
 Architecture: amd64
-Maintainer: Miguel Tenorio Potrony <mtpotro41@gmail.com>
-Installed-Size: 10
-Filename: ./simple_1.0_amd64.deb
-Size: 5026
-MD5sum: 0ace2df52bee0fc6d33aff11c4ac6fa8
-SHA1: f053989ed5f99700a523667e070f970e5253ec1a
-SHA256: 65b6ff6e52fbfca8a184a83e348f88d218cf38acd2f62d99078c6ae0123007cf
+Maintainer: Demerzel Solutions Limited <tkstanczak@demerzel.co>
+Installed-Size: 510000
+Depends: libsnappy-dev, libc6-dev, libc6
+Filename: ./EthClient_1.10.73_amd64.deb
+Size: 136289432
+MD5sum: a283b49feb4cf99997f0c474a4715510
+SHA1: 7c1404f4edfc1329344e94ad48088f1e3bb270b8
+SHA256: bc6694ef5f517cf000805cec50007ba3a4cf70d06dd3abffe39a6a563b4ab2a4
 Section: unknown
 Priority: optional
-Homepage: https://github.com/AntiD2ta/PPA-Suite
-Description: Print "Simple .deb package" on the screen
- Simple c++ program that prints "Simple .deb package" on the screen
+Homepage: https://nethermind.io
+Description: .NET Core Ethereum client full and actively developed
+ .NET Core Ethereum client for Linux, Windows, MacOs - full and actively developed
 
