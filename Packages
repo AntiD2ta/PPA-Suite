@@ -15,3 +15,19 @@ Homepage: https://nethermind.io
 Description: .NET Core Ethereum client full and actively developed
  .NET Core Ethereum client for Linux, Windows, MacOs - full and actively developed
 
+Package: simple
+Version: 1.0
+Architecture: amd64
+Maintainer: Miguel Tenorio Potrony <mtpotro41@gmail.com>
+Installed-Size: 10
+Filename: ./simple_1.0_amd64.deb
+Size: 5026
+MD5sum: 1ebcbee0ef9e4748cba9aa6f654dc05c
+SHA1: 1af0c953cf526a163a1ddb0d2a4e33ac31d77084
+SHA256: dc862b10978c4fdb517f163a4f048589081c4be98bb7af48c5fc6667f29c6d78
+Section: unknown
+Priority: optional
+Homepage: https://github.com/AntiD2ta/PPA-Suite
+Description: Print "Simple .deb package" on the screen
+ Simple c++ program that prints "Simple .deb package" on the screen
+
